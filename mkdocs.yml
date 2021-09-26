@@ -1,13 +1,13 @@
 # Informations du site 
-site_name: 2SI-A_2021-2022
-site_description: Découverte des Sciences de l'Ingénieur en classe de seconde au lycée Notre Dame du Mur de MORLAIX.
+site_name: 2CIT_2021-2022
+site_description: Sciences de l'Ingénieur - Création et Innovation Technologique en classe de seconde au lycée Notre Dame du Mur de MORLAIX.
 site_author: "Eric MADEC" 
 copyright: Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Eric MADEC</a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
-site_url: https://ericecmorlaix.github.io/2SI-A_2021-2022/
+site_url: https://ericecmorlaix.github.io/2CIT_2021-2022/
 
 # Dépot du projet 
-repo_name: '2SI-A_2021-2022' 
-repo_url: https://github.com/ericECmorlaix/2SI-A_2021-2022 # Ajoute l'icone et le lien vers le dépot GitHub en haut à droite
+repo_name: '2CIT_2021-2022' 
+repo_url: https://github.com/ericECmorlaix/2CIT_2021-2022 # Ajoute l'icone et le lien vers le dépot GitHub en haut à droite
 edit_uri: tree/main/docs/
 
 
@@ -107,7 +107,7 @@ extra:
       link: mailto:eric.madec@ecmorlaix.fr
       name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
     - icon: fontawesome/brands/github
-      link: https://github.com/ericECmorlaix/2SI-A_2021-2022
+      link: https://github.com/ericECmorlaix/2CIT_2021-2022
       name: dépôt github
     - icon: fontawesome/solid/university
       link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
