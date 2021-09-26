@@ -1,4 +1,4 @@
-# Cahier de texte 2SI-A_2021-2022
+# Cahier de texte 2CIT_2021-2022
 
 <figure>
 <img src="images/undraw_Scrum_board_re_wk7v.svg" width=70% >
@@ -14,8 +14,8 @@
     - modélisation et impression 3D...
 
 - **Développer** en équipe tout au long de l'année un projet long tel que :
-    - Créer un véhicule électrique et un stand pour [Course en Cours](https://www.course-en-cours.com/fr/) ;
-    - Construire et programmer des robots pour [RoboFesta](https://www.toutatice.fr/portail/pagemarker/1/cms/espace-educ/e-d-d/daac/ep-daac/concours/concours-academiques/robofesta.proxy?scope=__nocache&pageParams=&pagePath=%252Fdefault%252F_dyn_cG9ydGFsU2l0ZVpYTndZV05sTFdWa2RXTV9lX2RaUzFrTFdRX2VfZFpHRmhZd19lX2VfZFpYQXRaR0ZoWXdfZV9l.Y21zOi9lc3BhY2UtZWR1Yy9lLWQtZC9kYWFjL2VwLWRhYWM%253D.X19OX18%253D.X19FX18%253D.X19OX18%253D%252F_CMS_LAYOUT&displayContext=menu&addToBreadcrumb=0) et/ou [Robocup Junior](https://www.robocup.fr/robocupjunior-1) ;
+    - Créer un véhicule électrique et un stand pour [Course en Cours](https://www.course-en-cours.com/fr/){target="_blank"} ;
+    - Construire et programmer des robots pour [RoboFesta](https://www.toutatice.fr/portail/pagemarker/1/cms/espace-educ/e-d-d/daac/ep-daac/concours/concours-academiques/robofesta.proxy?scope=__nocache&pageParams=&pagePath=%252Fdefault%252F_dyn_cG9ydGFsU2l0ZVpYTndZV05sTFdWa2RXTV9lX2RaUzFrTFdRX2VfZFpHRmhZd19lX2VfZFpYQXRaR0ZoWXdfZV9l.Y21zOi9lc3BhY2UtZWR1Yy9lLWQtZC9kYWFjL2VwLWRhYWM%253D.X19OX18%253D.X19FX18%253D.X19OX18%253D%252F_CMS_LAYOUT&displayContext=menu&addToBreadcrumb=0){target="_blank"} et/ou [Robocup Junior](https://www.robocup.fr/robocupjunior-1){target="_blank"} ;
     - Développer des équipements pour connecter la nouvelle serre de planète verte au collège ;
     - Autres projets d'innovation...
 
