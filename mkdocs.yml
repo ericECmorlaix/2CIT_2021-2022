@@ -17,7 +17,7 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - Cahier de texte : index.md    
-    - Fiche d'information : Nom_Prenom-fiche.ipynb
+    - Fiche d'informations : Nom_Prenom-fiche.ipynb
     
     - Ressources :
       - Les notebook jupyter :
