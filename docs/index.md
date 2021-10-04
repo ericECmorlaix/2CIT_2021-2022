@@ -22,12 +22,21 @@
     - Imaginer des solutions pour mesurer l'activité sportive dans le cadre du projet "bougeons ensemble" ;
     - Autres projets d'innovation...
 
+***
+## Le 05/10 :
+
+### Activités :
+
+#### Remédiation [Prise en main des notebook jupyter](./#prise-en-main-des-notebook-jupyter-pour-communiquer-un-compte-rendu) ;
+
+#### Découvrir la programmation des objets connectés :
 
 - avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code fourni​​​ pour le **Parcours_1** ;
 
 - **regardez** la [vidéo de prise en main de l'interface](https://web.microsoftstream.com/video/3d15c5a0-a510-4553-a45c-892de0227100){target="_blank"} ;
 
 ​> **notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre ;
+
 
 ### Prolongements, à faire en autonomie le 12/10 et à rendre pour le 19/10 :
 
