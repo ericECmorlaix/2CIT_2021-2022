@@ -26,6 +26,25 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+<!--
+## Le 07/12
+
+Bilan QuickPi
+
+## Le 30/11
+
+BBC micro:bit
+-->
+
+***
+## Le 23/11 :
+
+- **​Prise en main** de la programmation des Lego Mindstorms EV3 avec l'application : "EV3 Classroom" :
+    1. **Hello !** => expérimenter afin d'expliquer comment fonctionne la communication avec la brique depuis une tablette et depuis un PC...  ;​​​​​
+    2. **Moteurs et capteurs** => programmer les différents capteurs et moteurs disponibles afin d'expliquer leur fonctionnement... ;
+    3. **Se déplacer** => construire et programmer une base motrice afin d'expliquer le déplacement produit par les différentes instructions... ;
+    4. **Fichier > Nouveau Projet**  =>  créer une nouvelle trame de programmation personnalisée et la partager...
+
 ***
 ## Le 16/11 :
 
