@@ -20,6 +20,7 @@ nav:
     - Fiche d'informations: Nom_Prenom-fiche.ipynb
     - Quick Pi, Parcours 1: Quick_Pi-Objets_connectes-Parcours_1.ipynb
     - Modélisation 3D: modelisation_3D.md
+    - BBC micro:bit : bbc_microbit.md
     - Ressources:
       - Les notebook jupyter:
         - Découverte: decouverte-notebook.ipynb

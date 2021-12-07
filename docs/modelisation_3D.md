@@ -8,13 +8,13 @@ Pour cela, plusieurs solutions s'offrent à nous...
 
 
 <figure markdown>
-  ![logo BlocksCAD](../images/bslogo.png){ width="40%" .center }
+  ![logo BlocksCAD](./images/bslogo.png){ width="40%" .center }
 </figure>
 
 <a href="https://www.blockscad3d.com/" target="_blank">BlocksCAD</a> permet de générer des modèles 3D de pièces avec la programmation graphique par blocs :
 
 <figure markdown>
-  ![Coque HandSpinner](../images/CoqueHandSpinner.png){ width="60%" .center }
+  ![Coque HandSpinner](./images/CoqueHandSpinner.png){ width="60%" .center }
 </figure>
 
 ??? example "Sprint de découverte à faire vous même : ..."
@@ -22,7 +22,7 @@ Pour cela, plusieurs solutions s'offrent à nous...
     ### Défin n°1 : Modéliser un pion avec BlocksCAD
     
     <figure markdown>
-      ![Pion](../images/Pion.jpg){ width="50%" .center }
+      ![Pion](./images/Pion.jpg){ width="50%" .center }
       <figcaption>Pion orange</figcaption>
     </figure>
 
@@ -31,12 +31,12 @@ Pour cela, plusieurs solutions s'offrent à nous...
     Créer un compte en utilisant un pseudo "correct", le mot de passe de votre choix, et votre adresse mail : prenom.nom@eleves.ecmorlaix.fr
     
     <figure markdown>
-      ![BlocksCAD_01](../images/BlocksCAD_01.png){ width="70%" .center }
+      ![BlocksCAD_01](./images/BlocksCAD_01.png){ width="70%" .center }
     </figure>
     La fenêtre graphique de l'application BlocksCAD s'organise ainsi :
     
     <figure markdown>
-      ![BlocksCAD_02](../images/BlocksCAD_02.png){ width="80%" .center }
+      ![BlocksCAD_02](./images/BlocksCAD_02.png){ width="80%" .center }
       <figcaption>
         <p>Source : <a href="https://drive.google.com/file/d/0BylI2DCyFdKFSHRMUzZHV0RKYjQ/view" target="_blank">Cyril VIGNET</a></p>
       </figcaption>
@@ -48,22 +48,22 @@ Pour cela, plusieurs solutions s'offrent à nous...
     === "Etape 1 :"
         <figure markdown>
           <figcaption markdown>==Un premier cylindre (rayon = 7 mm, hauteur = 17 mm) centré ;==</figcaption>
-          ![BlocksCAD_03](../images/BlocksCAD_03.png){ width="90%" .center }          
+          ![BlocksCAD_03](./images/BlocksCAD_03.png){ width="90%" .center }          
         </figure>
     === "Etape 2 :"
         <figure markdown>
           <figcaption markdown>==Un second cylindre (rayon = 4 mm, hauteur = 8 mm) reposant sur le précédent ;==</figcaption>
-          ![BlocksCAD_04](../images/BlocksCAD_04.png){ width="90%" .center }
+          ![BlocksCAD_04](./images/BlocksCAD_04.png){ width="90%" .center }
         </figure>
     === "Etape 3 :"
         <figure markdown>
           <figcaption markdown>==Un tore (rayon 1 = 12 mm, rayon 2 = 7 mm) ;==</figcaption>
-          ![BlocksCAD_05](../images/BlocksCAD_05.png){ width="90%" .center }
+          ![BlocksCAD_05](./images/BlocksCAD_05.png){ width="90%" .center }
         </figure>
     === "Etape 4 :"
         <figure markdown>
           <figcaption markdown>==Opérations d'assemblage et mise en couleur ;==</figcaption>
-          ![BlocksCAD_06](../images/BlocksCAD_06.png){ width="90%" .center }
+          ![BlocksCAD_06](./images/BlocksCAD_06.png){ width="90%" .center }
         </figure>
     === "Etape 5 :"
         ==Il s'agit maintenant de renommer le projet, par exemple "monPion-prenom_nom", afin de l'enregistrer en cliquant sur le bouton "Sauver" ;==
@@ -77,7 +77,7 @@ Pour cela, plusieurs solutions s'offrent à nous...
     Afin de recevoir les six pions du jeu tout en laissant un emplacement libre, cette pièce doit comporter sept trous cylindriques de diamètre 8mm et de profondeur 9mm, distants chacun d'un pas de 17mm.
     
     <figure markdown>
-      ![Support](../images/Support.jpg){ width="70%" .center }
+      ![Support](./images/Support.jpg){ width="70%" .center }
       <figcaption>Exemple de support possible</figcaption>
     </figure>
     

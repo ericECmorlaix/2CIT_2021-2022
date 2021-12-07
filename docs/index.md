@@ -37,6 +37,11 @@ BBC micro:bit
 -->
 
 ***
+## Le 07/12 :
+
+- **Programmer** une carte [BBC micro:bit](./bbc_microbit) ;
+
+***
 ## Le 23/11 :
 
 - **​Prise en main** de la programmation des Lego Mindstorms EV3 avec l'application : "EV3 Classroom" :
