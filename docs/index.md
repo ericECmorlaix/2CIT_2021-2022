@@ -35,11 +35,16 @@ Bilan QuickPi
 
 BBC micro:bit
 -->
+***
+## Le 04/01
+
+- Répartition en équipe projets...
+
 
 ***
 ## Le 07/12 :
 
-- **Programmer** une carte [BBC micro:bit](./bbc_microbit) ;
+- **Programmer** une carte [BBC micro:bit](https://ericecmorlaix.github.io/2CIT_2021-2022/bbc_microbit/){target=_blank} ;
 
 ***
 ## Le 23/11 :
