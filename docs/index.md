@@ -40,9 +40,9 @@ BBC micro:bit
 ## Le 17/01
 
 - Préciser votre projet et les principales étapes de la démarche envisagée pour le résoudre en vous inspirant de :
-    - [L'approche design au service du projet en SI](https://www.lumni.fr/video/lapproche-design-au-service-du-projet-de-premiere#containerType=serie&containerSlug=la-maison-lumni-lycee){target=_blank} ;
-    - [Design_thinking](https://fr.wikipedia.org/wiki/Design_thinking){target=_blank} ;
     - [Initiation au design-thinking](https://openclassrooms.com/fr/courses/7231661-initiez-vous-au-design-thinking){target=_blank} ;
+    - [L'approche design au service du projet en SI](https://www.lumni.fr/video/lapproche-design-au-service-du-projet-de-premiere#containerType=serie&containerSlug=la-maison-lumni-lycee){target=_blank} ;
+    - voir aussi [Design_thinking](https://fr.wikipedia.org/wiki/Design_thinking){target=_blank}...    
 
 ## Le 10/01
 
