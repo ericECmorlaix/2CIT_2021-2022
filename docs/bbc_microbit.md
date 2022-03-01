@@ -48,11 +48,28 @@
 
 ## Programmation
 
-Il existe différentes façon de programmer la carte BBC micro:bit, nous allons utiliser l'éditeur en ligne de [vittascience](https://fr.vittascience.com/microbit/?mode=mixed&console=bottom&toolbox=vittascience&simu=1){target=_blank}
+Il existe différentes façon de programmer la carte BBC micro:bit, ici, nous allons utiliser l'éditeur en ligne [edublocks](https://app.edublocks.org/){target=_blank}
 
 <figure>
-<a href="https://fr.vittascience.com/microbit/?mode=mixed&console=bottom&toolbox=vittascience&simu=1" target="_blank"><iframe width='1080' height='720' allowfullscreen frameborder='0' style='border:1px #d6d6d6 solid;' src="https://fr.vittascience.com/microbit/?link=61ae30ba1701d&mode=mixed&simu=1&embed=1"></iframe></a>
+<iframe width='1080' height='720' allowfullscreen frameborder='0' style='border:1px #d6d6d6 solid;' src="https://app.edublocks.org/"></iframe>
 </figure>
+
+Le principe consiste à glisser/déposer des blocs d'instructions du menu de gauche dans la zone graphique pour obtenir le code Python correspondant.
+
+Pour tester son programme :
+
+- soit on raccorde une carte BBC micro:bit avec un cordon USB au PC et on clique sur le bouton `Connect` puis sur le bouton `Flash` ;
+- soit on copie/colle le code en Python dans le simulateur de [create.withcode.uk](https://create.withcode.uk/){target=_blank} et puis on appuye sur la combinaison de touches `Ctrl+Entrée` pour l'exécuter...
+
+<figure>
+<iframe width='1080' height='720' allowfullscreen frameborder='0' style='border:1px #d6d6d6 solid;' src="https://create.withcode.uk/"></iframe>
+</figure>
+
+> **Autres solutions :**
+>
+> - [microsoft makecode](https://makecode.microbit.org/){target=_blank}
+> - [vittascience](https://fr.vittascience.com/microbit/?mode=mixed&console=bottom&toolbox=vittascience&simu=1){target=_blank}
+> - [editeur python microbit](https://python.microbit.org/v/2){target=_blank}
 
 
 ## Défis à relever
@@ -79,10 +96,7 @@ Modifier le programme pour qu'après la phase de démarrage du BBC micro:bit la 
 Créer une autre séquence animée simulant un feux d'artifice comme par exemple :
 
 <figure>
-  <video width="320" height="240" autoplay loop>
-  <source src="images/bbc-feu.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-  </video>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uueiyRfRk7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ### Pluie
